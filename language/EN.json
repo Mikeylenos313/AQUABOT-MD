@@ -11,12 +11,12 @@
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
-                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
+                            "N_SONG"   : "*حط اسم الاغنية🍁🚮*\nex : .song اسم الأغنية لي تبي ما دخلني" ,
+                            "NOT_SONG" : "*مو موجودة عندي روح شوف بوت اخر〽️*" ,
+                            "S_YT"     : "*...دقيقة خليني ابحث🔍*" ,
+                            "N_YT"     : "*اكتب شي عشان ابحث عنه🍁🚮* \nex : .getyt مايكي عمك" ,
+                            "N_VID"    : "*حط رابط شي في اليوتيوب🍁🚮*\nex : .video .حط رابط يوتيوب" ,
+                            "N_FB"     : "*حط رابط شي في الفايسبوك🍁🚮*" , 
                             "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
                             "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
                             "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
